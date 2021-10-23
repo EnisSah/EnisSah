@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Enis Šahovi  
+- 👋 Hi, I’m Enis Šahović  
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Python, Data Science  
 - 💞️ I’m looking to collaborate on Data Science projects
